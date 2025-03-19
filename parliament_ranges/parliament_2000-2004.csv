@@ -1,0 +1,705 @@
+parliament,member,birthPlace,coordinates,start,end,party
+52,David Amess,Plaistow,(0.0245 51.5243),1997,2001,Conservative Party
+52,James Arbuthnot,Deal,(1.4006 51.2226),1997,2001,Conservative Party
+52,George Young,Oxford,(-1.257777777 51.751944444),1997,2001,Conservative Party
+52,Tim Yeo,Lewisham,(-0.005369444 51.461455555),1997,2001,Conservative Party
+52,Tony Baldry,Uxbridge,(-0.4778 51.5404),1997,2001,Conservative Party
+53,Gregory Barker,Worthing,(-0.371386111 50.814711111),2001,2005,Conservative Party
+52,Shaun Woodward,Bristol,(-2.5975 51.453611111),1999,2001,Conservative Party
+53,Henry Bellingham,Cheltenham,(-2.078427777 51.896519444),2001,2005,Conservative Party
+52,John Bercow,Edgware,(-0.2729 51.6185),1997,2001,Conservative Party
+52,Paul Beresford,Levin,(175.283333333 -40.625),1997,2001,Conservative Party
+52,Robert Walter,Swansea,(-3.95 51.616666666),1997,2001,Conservative Party
+53,Angela Watkinson,Leytonstone,(0.01 51.569),2001,2005,Conservative Party
+52,Crispin Blunt,Germany,(10.0 51.0),1997,2001,Conservative Party
+52,Peter Bottomley,Newport,(-2.3787 52.7691),1997,2001,Conservative Party
+52,Edward Heath,Broadstairs,(1.439438888 51.358880555),1997,2001,Conservative Party
+53,Boris Johnson,New York City,(-74.006111111 40.712777777),2001,2005,Conservative Party
+52,David Trimble,Belfast,(-5.93 54.596388888),1997,2001,Conservative Party
+52,Owen Paterson,Whitchurch,(-2.6827 52.969),1997,2001,Conservative Party
+52,Malcolm Bruce,Birkenhead,(-3.016666666 53.383333333),1997,2001,Liberal Democrats
+53,Roger Williams,Crickhowell,(-3.1372 51.8597),2001,2005,Liberal Democrats
+53,Alistair Carmichael,Islay,(-6.15 55.766666666),2001,2005,Liberal Democrats
+52,Paul Burstow,Carshalton,(-0.1676 51.3652),1997,2001,Liberal Democrats
+53,John Thurso,Thurso,(-3.521111111 58.596111111),2001,2005,Liberal Democrats
+53,Sarah Teather,London Borough of Enfield,(-0.079722222 51.654722222),2003,2005,Liberal Democrats
+53,John Pugh,Liverpool,(-2.991666666 53.407222222),2001,2005,Liberal Democrats
+52,Norman Baker,Aberdeen,(-2.1 57.15),1997,2001,Liberal Democrats
+52,Alan Beith,Poynton,(-2.122222222 53.349166666),1997,2001,Liberal Democrats
+52,Steve Webb,Birmingham,(-1.9025 52.48),1997,2001,Liberal Democrats
+52,Vince Cable,York,(-1.083333333 53.95),1997,2001,Liberal Democrats
+52,Menzies Campbell,Glasgow,(-4.25 55.861111111),1997,2001,Liberal Democrats
+52,Tom Brake,Melton Mowbray,(-0.886 52.7661),1997,2001,Liberal Democrats
+52,Theresa May,Eastbourne,(0.286111111 50.766388888),1997,2001,Conservative Party
+52,Julian Brazier,Dartford,(0.217222222 51.444444444),1997,2001,Conservative Party
+52,John Randall,Uxbridge,(-0.4778 51.5404),1997,2001,Conservative Party
+52,Graham Brady,Salford,(-2.293055555 53.482777777),1997,2001,Conservative Party
+52,John Whittingdale,Sherborne,(-2.5183 50.9491),1997,2001,Conservative Party
+52,Malcolm Wicks,Hatfield,(-0.225833333 51.763611111),1997,2001,Labour Party
+53,Kevin Brennan,Cwmbran,(-3.021 51.653),2001,2005,Labour Party
+52,Oona King,Sheffield,(-1.470277777 53.380833333),1997,2001,Labour Party
+52,Bob Ainsworth,Coventry,(-1.516666666 52.416666666),1997,2001,Labour Party
+52,Patricia Hewitt,Canberra,(149.126944444 -35.293055555),1997,2001,Labour Party
+52,Stephen Byers,Wolverhampton,(-2.125277777 52.584166666),1997,2001,Labour Party
+52,"Ann Taylor, Baroness Taylor of Bolton",London,(-0.1275 51.507222222),1997,2001,Labour Party
+53,Bill Wiggin,Westminster,(-0.1333 51.4995),2001,2005,Conservative Party
+52,David Willetts,Birmingham,(-1.9025 52.48),1997,2001,Conservative Party
+53,Chris Bryant,Cardiff,(-3.179166666 51.481666666),2001,2005,Conservative Party
+52,Bill Cash,Finsbury,(-0.0925 51.5224),1997,2001,Conservative Party
+52,Simon Burns,Nottingham,(-1.149166666 52.955),1997,2001,Conservative Party
+53,Alistair Burt,Bury,(-2.298552777 53.59315),2001,2005,Conservative Party
+52,Christopher Chope,Putney,(-0.2211 51.4649),1997,2001,Conservative Party
+52,James Clappison,Beverley,(-0.427 53.845),1997,2001,Conservative Party
+52,Kenneth Clarke,West Bridgford,(-1.13 52.92),1997,2001,Conservative Party
+52,Andrew Tyrie,Rochford,(0.7065 51.5821),1997,2001,Conservative Party
+53,Andrew Turner,Coventry,(-1.516666666 52.416666666),2001,2005,Conservative Party
+52,David Tredinnick,Worthing,(-0.371386111 50.814711111),1997,2001,Conservative Party
+52,"Lewis Moonie, Baron Moonie",Dundee,(-2.97 56.460555555),1997,2001,Labour Party
+52,"Joyce Quin, Baroness Quin",Tynemouth,(-1.423 55.017),1997,2001,Labour Party
+52,"Giles Radice, Baron Radice",London,(-0.1275 51.507222222),1997,2001,Labour Party
+52,Diane Abbott,Paddington,(-0.173 51.5172),1997,2001,Labour Party
+52,"Angela Smith, Baroness Smith of Basildon",London,(-0.1275 51.507222222),1997,2001,Labour Party
+52,Glenda Jackson,Birkenhead,(-3.016666666 53.383333333),1997,2001,Labour Party
+52,Peter Tapsell,Hove,(-0.1725 50.831111111),1997,2001,Conservative Party
+52,Geoffrey Clifton-Brown,Cambridge,(0.1225 52.208055555),1997,2001,Conservative Party
+52,Vernon Coaker,London,(-0.1275 51.507222222),1997,2001,Labour Party
+52,Ann Coffey,Inverness,(-4.225833333 57.483888888),1997,2001,Labour Party
+52,Michael Connarty,Coatbridge,(-4.026666666 55.8625),1997,2001,Labour Party
+52,Yvette Cooper,Inverness,(-4.225833333 57.483888888),1997,2001,Labour Party
+52,Jeremy Corbyn,Chippenham,(-2.1158 51.4585),1997,2001,Labour Party
+52,"Brian Mawhinney, Baron Mawhinney",Belfast,(-5.93 54.596388888),1997,2001,Conservative Party
+52,"Quentin Davies, Baron Davies of Stamford",Oxford,(-1.257777777 51.751944444),1997,2001,Conservative Party
+52,Oliver Letwin,London,(-0.1275 51.507222222),1997,2001,Conservative Party
+52,Eric Pickles,Keighley,(-1.916666666 53.866666666),1997,2001,Conservative Party
+52,Michael Portillo,Bushey,(-0.3604 51.6429),1999,2001,Conservative Party
+52,John Gummer,Stockport,(-2.149444444 53.408333333),1997,2001,Conservative Party
+52,Ken Livingstone,Lambeth,(-0.1193 51.4903),2000,2001,Labour Party
+52,Margaret Beckett,Ashton-under-Lyne,(-2.1032 53.4941),1997,2001,Labour Party
+52,Harriet Harman,London,(-0.1275 51.507222222),1997,2001,Labour Party
+52,Jacqui Smith,Malvern,(-2.325 52.108),1997,2001,Labour Party
+52,Caroline Flint,Twickenham,(-0.3369 51.4486),1997,2001,Labour Party
+52,Michael Moore,Belfast,(-5.93 54.596388888),1997,2001,Liberal Democrats
+53,David Laws,Farnham,(-0.799 51.214),2001,2005,Liberal Democrats
+52,"Ronnie Fearn, Baron Fearn",Southport,(-3.008055555 53.646944444),1997,2001,Liberal Democrats
+52,Gerry Adams,Belfast,(-5.93 54.596388888),1997,2001,Sinn Féin
+52,"Tom King, Baron King of Bridgwater",Rugby,(-1.26 52.37),1997,2001,Conservative Party
+53,Iain Wright,Hartlepool,(-1.216666666 54.683333333),2004,2005,Labour Party
+52,Kevin Barron,Tadcaster,(-1.262 53.8852),1997,2001,Labour Party
+52,Hugh Bayley,Maidenhead,(-0.716666666 51.516666666),1997,2001,Labour Party
+53,David Wright,Telford,(-2.4475 52.679166666),2001,2005,Labour Party
+52,Anne Begg,Brechin,(-2.655277777 56.73),1997,2001,Labour Party
+52,Mike Wood,Crewe,(-2.44 53.099),1997,2001,Labour Party
+52,Rosie Winterton,Leicester,(-1.133055555 52.636111111),1997,2001,Labour Party
+52,David Winnick,Brighton,(-0.1375 50.820833333),1997,2001,Labour Party
+52,Stuart Bell,High Spen,(-1.7831 54.9312),1997,2001,Labour Party
+52,Mo Mowlam,Watford,(-0.395833333 51.655277777),1997,2001,Labour Party
+52,Hilary Benn,Hammersmith,(-0.2229 51.4928),1999,2001,Labour Party
+52,Joe Benton,Bootle,(-2.994166666 53.45),1997,2001,Labour Party
+52,Joan Walley,Stoke-on-Trent,(-2.183333333 53.0),1997,2001,Labour Party
+52,Clive Betts,Sheffield,(-1.470277777 53.380833333),1997,2001,Labour Party
+53,Tom Watson,Sheffield,(-1.470277777 53.380833333),2001,2005,Labour Party
+52,David Watts,St Helens,(-2.7461 53.4541),1997,2001,Labour Party
+52,Hazel Blears,Salford,(-2.293055555 53.482777777),1997,2001,Labour Party
+52,David Blunkett,Sheffield,(-1.470277777 53.380833333),1997,2001,Labour Party
+52,Alan Whitehead,Isleworth,(-0.3363 51.4666),1997,2001,Labour Party
+52,Ben Bradshaw,London,(-0.1275 51.507222222),1997,2001,Labour Party
+52,Don Foster,Preston,(-2.698055555 53.759444444),1997,2001,Liberal Democrats
+52,Andrew George,Mullion,(-5.241 50.027),1997,2001,Liberal Democrats
+52,Mike Hancock,Portsmouth,(-1.087222222 50.805833333),1997,2001,Liberal Democrats
+52,Douglas Alexander,Glasgow,(-4.25 55.861111111),1997,2001,Labour Party
+52,Graham Allen,Nottingham,(-1.149166666 52.955),1997,2001,Labour Party
+52,Adrian Bailey,Salisbury,(-1.7936 51.074),2000,2001,Labour Party
+52,Nick Brown,Hawkhurst,(0.5173 51.0471),1997,2001,Labour Party
+52,Russell Brown,Annan,(-3.266 54.983),1997,2001,Labour Party
+52,Karen Buck,Castlederg,(-7.5934 54.7083),1997,2001,Labour Party
+52,Keith Vaz,Aden,(45.033333333 12.8),1997,2001,Labour Party
+52,Alan Campbell,Consett,(-1.83 54.85),1997,2001,Labour Party
+52,Ronnie Campbell,Tynemouth,(-1.423 55.017),1997,2001,Labour Party
+52,Martin Caton,Bishop's Stortford,(0.1725 51.872),1997,2001,Labour Party
+53,Liam Byrne,Warrington,(-2.60288 53.38732),2004,2005,Labour Party
+52,Richard Burden,Liverpool,(-2.991666666 53.407222222),1997,2001,Labour Party
+53,Andy Burnham,Aintree,(-2.9373 53.4793),2001,2005,Labour Party
+52,Tom Clarke,Coatbridge,(-4.026666666 55.8625),1997,2001,Labour Party
+52,Stephen Twigg,London Borough of Enfield,(-0.079722222 51.654722222),1997,2001,Labour Party
+52,Derek Twigg,Widnes,(-2.728 53.363),1997,2001,Labour Party
+52,Jon Trickett,Leeds,(-1.543611111 53.7975),1997,2001,Labour Party
+52,Stephen Timms,Oldham,(-2.118333333 53.544722222),1997,2001,Labour Party
+52,Gareth Thomas,Harrow,(-0.3464 51.5836),1997,2001,Labour Party
+53,Mark Tami,Enfield,(-0.080833333 51.652222222),2001,2005,Labour Party
+52,Tessa Jowell,London,(-0.1275 51.507222222),1997,2001,Labour Party
+52,Ruth Kelly,Limavady,(-6.946 55.053),1997,2001,Labour Party
+53,David Miliband,London,(-0.1275 51.507222222),2001,2005,Labour Party
+52,Ann Clwyd,Denbighshire,(-3.354444444 53.086666666),1997,2001,Labour Party
+52,John Stanley,Metropolitan Borough of St Marylebone,(-0.1601 51.5213),1997,2001,Conservative Party
+52,Nicholas Soames,Croydon,(-0.1099 51.3727),1997,2001,Conservative Party
+53,Mark Francois,Islington,(-0.1027 51.544),2001,2005,Conservative Party
+52,Roger Gale,Poole,(-1.983333333 50.716666666),1997,2001,Conservative Party
+52,Nick Gibb,Amersham,(-0.633333333 51.666666666),1997,2001,Conservative Party
+53,Keith Simpson,Norwich,(1.292777777 52.628611111),2001,2005,Conservative Party
+52,James Gray,Glasgow,(-4.25 55.861111111),1997,2001,Conservative Party
+52,Damian Green,Barry,(-3.2667 51.4064),1997,2001,Conservative Party
+53,Mark Simmonds,Worksop,(-1.122777777 53.309722222),2001,2005,Conservative Party
+52,Richard Shepherd,Aberdeen,(-2.1 57.15),1997,2001,Conservative Party
+52,Ian McCartney,Kirkintilloch,(-4.154722222 55.935833333),1997,2001,Labour Party
+52,"Estelle Morris, Baroness Morris of Yardley",Manchester,(-2.233333333 53.466666666),1997,2001,Labour Party
+52,John Hume,Derry,(-7.341666666 54.991666666),1997,2001,Social Democratic and Labour Party
+52,Donald Gorrie,British Raj,(88.337777777 22.541111111),1997,2001,Liberal Democrats
+53,John MacDougall,Dunfermline,(-3.461666666 56.071388888),2001,2005,Labour Party
+52,"David Clark, Baron Clark of Windermere",Castle Douglas,(-3.929 54.941),1997,2001,Labour Party
+52,Alan Milburn,Tow Law,(-1.815180555 54.748),1997,2001,Labour Party
+52,"John Reid, Baron Reid of Cardowan",Bellshill,(-4.028333333 55.820555555),1997,2001,Labour Party
+53,James Purnell,City of London,(-0.093055555 51.515555555),2001,2005,Labour Party
+52,Clare Short,Birmingham,(-1.9025 52.48),1997,2001,Labour Party
+52,"Helen Liddell, Baroness Liddell of Coatdyke",Coatbridge,(-4.026666666 55.8625),1997,2001,Labour Party
+53,Chris Grayling,London,(-0.1275 51.507222222),2001,2005,Conservative Party
+52,Ann Winterton,Sutton Coldfield,(-1.822 52.563),1997,2001,Conservative Party
+52,John Butterfill,Kingston upon Thames,(-0.2995 51.4103),1997,2001,Conservative Party
+52,Nigel Waterson,Leeds,(-1.543611111 53.7975),1997,2001,Conservative Party
+52,David Wilshire,Bristol,(-2.5975 51.453611111),1997,2001,Conservative Party
+53,Derek Conway,Newcastle upon Tyne,(-1.613333333 54.977777777),2001,2005,Conservative Party
+52,Nicholas Winterton,Rugeley,(-1.9388 52.7599),1997,2001,Conservative Party
+52,Peter Ainsworth,Wokingham,(-0.84 51.41),1997,2001,Conservative Party
+53,John Baron,Redhill,(-0.1726 51.2393),2001,2005,Conservative Party
+52,James Cran,Aberdeen,(-2.1 57.15),1997,2001,Conservative Party
+52,Peter Atkinson,Corbridge,(-2.017 54.975),1997,2001,Conservative Party
+52,David Curry,Burton upon Trent,(-1.636666666 52.801944444),1997,2001,Conservative Party
+52,David Atkinson,Westcliff-on-Sea,(0.690833333 51.539722222),1997,2001,Conservative Party
+52,David Maclean,Cromarty,(-4.03701 57.6816),1997,2001,Conservative Party
+52,"Alan Howarth, Baron Howarth of Newport",Marylebone,(-0.147 51.5177),1997,2001,Conservative Party
+52,"Tony Banks, Baron Stratford",Belfast,(-5.93 54.596388888),1997,2001,Labour Party
+52,Gordon Marsden,Manchester,(-2.233333333 53.466666666),1997,2001,Labour Party
+52,Jim Murphy,Glasgow,(-4.25 55.861111111),1997,2001,Labour Party
+53,Pete Wishart,Dunfermline,(-3.461666666 56.071388888),2001,2005,Scottish National Party
+53,Mike Weir,Arbroath,(-2.585705555 56.561386111),2001,2005,Scottish National Party
+52,"David Chidgey, Baron Chidgey",Basingstoke,(-1.0861976 51.262826),1997,2001,Liberal Democrats
+53,Richard Younger-Ross,Surrey,(-0.45 51.25),2001,2005,Liberal Democrats
+52,Colin Breed,Surrey,(-0.45 51.25),1997,2001,Liberal Democrats
+53,John Barrett,Hobart,(147.316666666 -42.883333333),2001,2005,Liberal Democrats
+52,Jackie Ballard,Dunoon,(-4.923 55.947),1997,2001,Liberal Democrats
+52,Jacqui Lait,Paisley,(-4.423888888 55.845555555),1997,2001,Conservative Party
+52,Lembit Öpik,Bangor,(-5.67 54.66),1997,2001,Liberal Democrats
+52,"Robert Maclennan, Baron Maclennan of Rogart",Glasgow,(-4.25 55.861111111),1997,2001,Liberal Democrats
+52,Elfyn Llwyd,Betws-y-coed,(-3.792 53.092),1997,2001,Plaid Cymru
+52,Dafydd Wigley,Derby,(-1.476666666 52.921666666),1997,2001,Plaid Cymru
+53,Hywel Williams,Pwllheli,(-4.416666666 52.883333333),2001,2005,Plaid Cymru
+53,Gregory Campbell,County Londonderry,(-6.85 54.92),2001,2005,Democratic Unionist Party
+52,Betty Boothroyd,Dewsbury,(-1.633333333 53.683333333),1997,2000,Labour Party
+53,John Spellar,Bromley,(0.018305555 51.406444444),2001,2005,Labour Party
+52,Paul Flynn,Cardiff,(-3.179166666 51.481666666),1997,2001,Labour Party
+53,Hywel Francis,Neath,(-3.81 51.66),2001,2005,Labour Party
+53,Mike Gapes,Snaresbrook,(0.014563888 51.587027777),2001,2005,Labour Party
+53,Barry Gardiner,Glasgow,(-4.25 55.861111111),2001,2005,Labour Party
+52,Dennis Skinner,Clay Cross,(-1.4128 53.1637),1997,2001,Labour Party
+52,Roger Godsiff,Lewisham,(-0.005369444 51.461455555),1997,2001,Labour Party
+52,Paul Goggins,Manchester,(-2.233333333 53.466666666),1997,2001,Labour Party
+52,"Nigel Jones, Baron Jones of Cheltenham",Cheltenham,(-2.078427777 51.896519444),1997,2001,Liberal Democrats
+52,Charles Kennedy,Inverness,(-4.225833333 57.483888888),1997,2001,Liberal Democrats
+52,"Phil Willis, Baron Willis of Knaresborough",Burnley,(-2.248055555 53.788888888),1997,2001,Liberal Democrats
+52,Paddy Ashdown,New Delhi,(77.208888888 28.613888888),1997,2001,Liberal Democrats
+52,"Jack Cunningham, Baron Cunningham of Felling",Durham,(-1.566666666 54.783333333),1997,2001,Labour Party
+52,Terry Davis,Stourbridge,(-2.148 52.458),1997,2001,Labour Party
+52,Tony Wright,Great Yarmouth,(1.733055555 52.607777777),1997,2001,Labour Party
+53,Vera Baird,Chadderton,(-2.1426 53.5462),2001,2005,Labour Party
+52,John Battle,Bradford,(-1.751 53.794),1997,2001,Labour Party
+52,Alan Williams,Caerphilly,(-3.218 51.578),1997,2001,Labour Party
+53,Colin Challen,Scarborough,(-0.4 54.2825),2001,2005,Labour Party
+52,George Mudie,Dundee,(-2.97 56.460555555),1997,2001,Labour Party
+53,Gwyn Prosser,Swansea,(-3.95 51.616666666),2001,2005,Labour Party
+52,Fabian Hamilton,Westminster,(-0.1333 51.4995),1997,2001,Labour Party
+52,Candy Atherton,Surrey,(-0.45 51.25),1997,2001,Labour Party
+52,David Chaytor,Bury,(-2.298552777 53.59315),1997,2001,Labour Party
+52,Colin Burgon,Leeds,(-1.543611111 53.7975),1997,2001,Labour Party
+52,Bob Wareing,Liverpool,(-2.991666666 53.407222222),1997,2001,Labour Party
+52,Paul Truswell,Sheffield,(-1.470277777 53.380833333),1997,2001,Labour Party
+52,Denzil Davies,Carmarthen,(-4.316388888 51.856944444),1997,2001,Labour Party
+52,Phil Woolas,Scunthorpe,(-0.6502 53.5809),1997,2001,Labour Party
+52,Andrew Dismore,Bridlington,(-0.2004 54.088),1997,2001,Labour Party
+52,Marsha Singh,Punjab,(75.466666666 30.766666666),1997,2001,Labour Party
+52,Richard Caborn,Sheffield,(-1.470277777 53.380833333),1997,2001,Labour Party
+53,Brian Wilson,Dunoon,(-4.923 55.947),2001,2005,Labour Party
+53,Kali Mountford,Crewe,(-2.44 53.099),2001,2005,Labour Party
+52,David Clelland,Gateshead,(-1.6 54.95),1997,2001,Labour Party
+52,John Austin,Blaby,(-1.16777 52.5724),1997,2001,Labour Party
+52,"Archie Hamilton, Baron Hamilton of Epsom",Beckington,(-2.2845 51.2649),1997,2001,Conservative Party
+52,Norman Fowler,Chelmsford,(0.4798 51.7361),1997,2001,Conservative Party
+52,"John MacGregor, Baron MacGregor of Pulham Market",London,(-0.1275 51.507222222),1997,2001,Conservative Party
+52,Caroline Spelman,Bishop's Stortford,(0.1725 51.872),1997,2001,Conservative Party
+52,Michael Ancram,London,(-0.1275 51.507222222),1997,2001,Conservative Party
+52,"Patrick Cormack, Baron Cormack",Grimsby,(-0.08 53.5675),1997,2001,Conservative Party
+52,Philip Hammond,Epping,(0.1087 51.7004),1997,2001,Conservative Party
+52,Dominic Grieve,Lambeth,(-0.1193 51.4903),1997,2001,Conservative Party
+52,"John Maples, Baron Maples",Fareham,(-1.18 50.85),1997,2001,Conservative Party
+52,Gillian Shephard,Cromer,(1.302 52.931),1997,2001,Conservative Party
+53,Andrew Mitchell,London,(-0.1275 51.507222222),2001,2005,Conservative Party
+52,Patrick McLoughlin,Stafford,(-2.1171 52.8066),1997,2001,Conservative Party
+52,Andrew Lansley,Hornchurch,(0.212811111 51.556502777),1997,2001,Conservative Party
+52,David Stewart,Inverness,(-4.225833333 57.483888888),1997,2001,Labour Party
+52,Dennis Canavan,Cowdenbeath,(-3.35 56.11),1999,2000,Labour Party
+52,"Dennis Turner, Baron Bilston",Bradley,(-2.0752 52.5528),1997,2001,Labour Party
+52,"Derek Foster, Baron Foster of Bishop Auckland",Sunderland,(-1.380277777 54.9),1997,2001,Labour Party
+52,Martin Linton,Stockholm,(18.068611111 59.329444444),1997,2001,Labour Party
+52,John McAllion,Glasgow,(-4.25 55.861111111),1997,2001,Labour Party
+52,Jackie Lawrence,Birmingham,(-1.9025 52.48),1997,2001,Labour Party
+52,Jamie Cann,Barton-upon-Humber,(-0.45 53.6833),1997,2001,Labour Party
+52,Jane Kennedy,Whitehaven,(-3.5855 54.548),1997,2001,Labour Party
+52,Jeffrey Ennis,Grimethorpe,(-1.38 53.57),1997,2001,Labour Party
+52,Jimmy Wray,Govan,(-4.3083 55.8615),1997,2001,Labour Party
+52,Joan Humble,Skipton,(-2.017 53.962),1997,2001,Labour Party
+52,Adam Ingram,Glasgow,(-4.25 55.861111111),1997,2001,Labour Party
+52,Rosemary McKenna,Renfrewshire,(-4.389464 55.877277),1997,2001,Labour Party
+53,Jim Sheridan,Glasgow,(-4.25 55.861111111),2001,2005,Labour Party
+53,David Hamilton,Dalkeith,(-3.068332 55.893642),2001,2005,Labour Party
+52,Barry Sheerman,Sunbury-on-Thames,(-0.42 51.425),1997,2001,Labour Party
+52,David Hanson,Liverpool,(-2.991666666 53.407222222),1997,2001,Labour Party
+52,"George Foulkes, Baron Foulkes of Cumnock",Oswestry,(-3.0538 52.8598),1997,2001,Labour Party
+52,Joan Ryan,Warrington,(-2.60288 53.38732),1997,2001,Labour Party
+52,Joe Ashton,Sheffield,(-1.470277777 53.380833333),1997,2001,Labour Party
+53,Michelle Gildernew,Dungannon,(-6.77 54.5),2001,2005,Sinn Féin
+52,Cecil Walker,Belfast,(-5.93 54.596388888),1997,2001,Ulster Unionist Party
+53,David Burnside,Ballymoney,(-6.508 55.071),2003,2004,Ulster Unionist Party
+52,Alan Haselhurst,Yorkshire,(-1.083333333 53.958333333),1997,2001,Conservative Party
+52,John Hayes,Woolwich,(0.066666666 51.491666666),1997,2001,Conservative Party
+52,Oliver Heald,Reading,(-0.973055555 51.454166666),1997,2001,Conservative Party
+53,Andrew Selous,London,(-0.1275 51.507222222),2001,2005,Conservative Party
+53,David Ruffley,Bolton,(-2.43 53.578333333),2001,2005,Conservative Party
+53,Andrew Rosindell,Romford,(0.1801 51.5768),2001,2005,Conservative Party
+52,Laurence Robertson,Bolton,(-2.43 53.578333333),1997,2001,Conservative Party
+53,Hugh Robertson,Canterbury,(1.0775 51.278333333),2001,2005,Conservative Party
+52,Andrew Robathan,Surrey,(-0.45 51.25),1997,2001,Conservative Party
+52,Angela Browning,Reading,(-0.973055555 51.454166666),1997,2001,Conservative Party
+53,Anne McIntosh,Edinburgh,(-3.189166666 55.953333333),2001,2005,Conservative Party
+53,Mark Prisk,Cornwall,(-4.9 50.3),2001,2005,Conservative Party
+52,James Paice,Felixstowe,(1.351388888 51.963888888),1997,2001,Conservative Party
+52,Richard Ottaway,Sonning,(-0.911 51.473),1997,2001,Conservative Party
+52,Stephen O'Brien,Mtwara,(40.182777777 -10.273611111),1999,2001,Conservative Party
+52,Sydney Chapman,Macclesfield,(-2.1274 53.2581),1997,2001,Conservative Party
+52,Tim Collins,Epping,(0.1087 51.7004),1997,2001,Conservative Party
+52,John Greenway,Northwich,(-2.518 53.259),1997,2001,Conservative Party
+52,John Horam,Preston,(-2.699 53.759),1997,2001,Conservative Party
+52,John Wilkinson,Windsor,(-0.6 51.483333333),1997,2001,Conservative Party
+52,John Marek,London,(-0.1275 51.507222222),1997,2001,Conservative Party
+52,Nick Harvey,Chandler's Ford,(-1.3792 50.984),1997,2001,Liberal Democrats
+52,Adrian Sanders,Paignton,(-3.5625 50.435277777),1997,2001,Liberal Democrats
+52,Bob Russell,London,(-0.1275 51.507222222),1997,2001,Liberal Democrats
+52,Sandra Gidley,Rossett,(-2.945 53.109),2000,2001,Liberal Democrats
+53,Alan Reid,Ayr,(-4.627777777 55.463888888),2001,2005,Liberal Democrats
+53,Bob Spink,Haworth,(-1.955146 53.831502),2001,2005,Conservative Party
+52,John Townend,Kingston upon Hull,(-0.3325 53.744444444),1997,2001,Conservative Party
+52,Gavin Strang,Crieff,(-3.843055555 56.373611111),1997,2001,Labour Party
+52,Rhodri Morgan,Cardiff,(-3.179166666 51.481666666),1997,2001,Labour Party
+52,Donald Dewar,Glasgow,(-4.25 55.861111111),1997,2000,Labour Party
+52,Peter Hain,Nairobi,(36.817222222 -1.286388888),1997,2001,Labour Party
+52,"Chris Smith, Baron Smith of Finsbury",Barnet,(-0.1997 51.6444),1997,2001,Labour Party
+52,Bernie Grant,Georgetown,(-58.150833333 6.805833333),1997,2000,Labour Party
+52,Betty Williams,Bangor,(-4.128 53.228),1997,2001,Labour Party
+52,Bill Etherington,Sunderland,(-1.380277777 54.9),1997,2001,Labour Party
+52,Bill O'Brien,Pontefract,(-1.312 53.691),1997,2001,Labour Party
+52,Bill Olner,Atherstone,(-1.5462 52.5787),1997,2001,Labour Party
+52,Bob Blizzard,Bury St Edmunds,(0.7125 52.246667),1997,2001,Labour Party
+52,Bob Laxton,Derby,(-1.476666666 52.921666666),1997,2001,Labour Party
+52,Bob Marshall-Andrews,Willesden,(-0.2295 51.5468),1997,2001,Labour Party
+52,Janet Anderson,Newcastle upon Tyne,(-1.613333333 54.977777777),1997,2001,Labour Party
+52,Charlotte Atkins,Chelmsford,(0.4798 51.7361),1997,2001,Labour Party
+52,Liz Blackman,Penrith,(-2.7548 54.6648),1997,2001,Labour Party
+52,Helen Clark,Derby,(-1.476666666 52.921666666),1997,2001,Labour Party
+52,Claire Curtis-Thomas,Neath,(-3.81 51.66),1997,2001,Labour Party
+52,Valerie Davey,Surrey,(-0.45 51.25),1997,2001,Labour Party
+53,Janet Dean,Crewe,(-2.44 53.099),2001,2005,Labour Party
+52,Brian Iddon,Tarleton,(-2.841680555 53.678),1997,2001,Labour Party
+52,Brian Jenkins,Pontypridd,(-3.33682 51.59672),1997,2001,Labour Party
+52,Brian Sedgemore,Exmouth,(-3.413 50.62),1997,2001,Labour Party
+52,Brian White,Belfast,(-5.93 54.596388888),1997,2001,Labour Party
+52,Christine McCafferty,Manchester,(-2.233333333 53.466666666),1997,2001,Labour Party
+52,Bridget Prentice,Glasgow,(-4.25 55.861111111),1997,2001,Labour Party
+52,Bruce George,Mountain Ash,(-3.37916 51.6814),1997,2001,Labour Party
+52,Claire Ward,North Shields,(-1.4448 55.0097),1997,2001,Labour Party
+52,Calum MacDonald,Stornoway,(-6.387 58.209),1997,2001,Labour Party
+52,John Grogan,Halifax,(-1.863 53.725),1997,2001,Labour Party
+52,John Heppell,Newcastle upon Tyne,(-1.613333333 54.977777777),1997,2001,Labour Party
+52,Tony Worthington,Hatfield,(-0.225833333 51.763611111),1997,2001,Labour Party
+52,John McWilliam,Grangemouth,(-3.71639 56.0119),1997,2001,Labour Party
+52,Joan Ruddock,Pontypool,(-3.041 51.703),1997,2001,Labour Party
+52,Chris Ruane,Rhyl,(-3.480188888 53.321230555),1997,2001,Labour Party
+52,Frank Roy,Motherwell,(-3.995555555 55.789166666),1997,2001,Labour Party
+52,Geoffrey Robinson,Sheffield,(-1.470277777 53.380833333),1997,2001,Labour Party
+52,John Robertson,Glasgow,(-4.25 55.861111111),2000,2001,Labour Party
+52,David Lammy,Whittington Hospital,(-0.1395 51.5665),2000,2001,Labour Party
+52,Lorna Fitzsimons,Littleborough,(-2.098 53.644),1997,2001,Labour Party
+52,Nick Raynsford,Northampton,(-0.9 52.233333333),1997,2001,Labour Party
+52,Dawn Primarolo,London,(-0.1275 51.507222222),1997,2001,Labour Party
+53,Albert Owen,Holyhead,(-4.633333333 53.316666666),2001,2005,Labour Party
+52,Sandra Osborne,Paisley,(-4.423888888 55.845555555),1997,2001,Labour Party
+53,Patsy Calton,Somerset,(-3.0 51.3),2001,2005,Liberal Democrats
+53,John Smith,Penarth,(-3.17 51.43),2001,2005,Labour Party
+53,Dai Havard,Merthyr Tydfil,(-3.3779499 51.747263),2001,2005,Labour Party
+52,Peter Robinson,Belfast,(-5.93 54.596388888),1997,2001,Democratic Unionist Party
+53,Iris Robinson,Belfast,(-5.93 54.596388888),2001,2005,Democratic Unionist Party
+52,Ann Widdecombe,Bath,(-2.358611 51.381389),1997,2001,Conservative Party
+52,David Davis,York,(-1.083333333 53.95),1997,2001,Conservative Party
+53,Jonathan Djanogly,Hammersmith,(-0.2229 51.4928),2001,2005,Conservative Party
+52,Stephen Dorrell,Worcester,(-2.220555555 52.191111111),1997,2001,Conservative Party
+52,Alan Duncan,Rickmansworth,(-0.4659 51.6383),1997,2001,Conservative Party
+53,Ed Davey,Mansfield,(-1.1963 53.1435),2001,2005,Liberal Democrats
+52,Iain Duncan Smith,Edinburgh,(-3.189166666 55.953333333),1997,2001,Conservative Party
+52,Nigel Evans,Swansea,(-3.95 51.616666666),1997,2001,Conservative Party
+52,Michael Fabricant,Brighton,(-0.1375 50.820833333),1997,2001,Conservative Party
+52,Michael Fallon,Perth,(-3.433333333 56.395833333),1997,2001,Conservative Party
+52,Frank Field,Edmonton,(-0.0708 51.6154),1997,2001,Conservative Party
+52,Geraldine Smith,Belfast,(-5.93 54.596388888),1997,2001,Labour Party
+52,Gerry Bermingham,Dublin,(-6.260277777 53.349722222),1997,2001,Labour Party
+52,Gerry Steinberg,Durham,(-1.566666666 54.783333333),1997,2001,Labour Party
+52,Harry Barnes,Easington,(-1.35 54.78),1997,2001,Labour Party
+52,Nigel Beard,Leeds,(-1.543611111 53.7975),1997,2001,Labour Party
+52,Roger Berry,Huddersfield,(-1.779722222 53.645),1997,2001,Labour Party
+52,Harold Best,Leeds,(-1.543611111 53.7975),1997,2001,Labour Party
+52,Peter Bradley,Birmingham,(-1.9025 52.48),1997,2001,Labour Party
+52,Gordon Prentice,Edinburgh,(-3.189166666 55.953333333),1997,2001,Labour Party
+52,Ivor Caplin,Brighton,(-0.1375 50.820833333),1997,2001,Labour Party
+52,Ian Cawsey,Grimsby,(-0.08 53.5675),1997,2001,Labour Party
+52,Greg Pope,Blackburn,(-2.4769 53.7449),1997,2001,Labour Party
+52,Michael Clapham,Darton,(-1.5325 53.585),1997,2001,Labour Party
+52,Paul Clark,Gillingham,(0.5498 51.3792),1997,2001,Labour Party
+52,Tony Clarke,Northampton,(-0.9 52.233333333),1997,2001,Labour Party
+52,Harry Cohen,London Borough of Hackney,(-0.0575 51.544722222),1997,2001,Labour Party
+52,Jim Cousins,Shepherd's Bush,(-0.2207 51.5042),1997,2001,Labour Party
+52,Ross Cranston,Brisbane,(153.027777777 -27.467777777),1997,2001,Labour Party
+52,John Cummings,Newcastle upon Tyne,(-1.613333333 54.977777777),1997,2001,Labour Party
+53,Angus Robertson,Wimbledon,(-0.2171 51.4235),2001,2005,Scottish National Party
+53,Annabelle Ewing,Glasgow,(-4.25 55.861111111),2001,2005,Scottish National Party
+53,Mark Field,Hanover,(9.738611111 52.374444444),2001,2005,Conservative Party
+52,Robert Syms,Chippenham,(-2.1158 51.4585),1997,2001,Conservative Party
+53,Hilton Dawson,Newbiggin-by-the-Sea,(-1.515 55.183),2001,2005,Labour Party
+53,Parmjit Dhanda,London Borough of Hillingdon,(-0.476111111 51.543611111),2001,2005,Labour Party
+52,Malcolm Moss,Audenshaw,(-2.1122 53.4743),1997,2001,Conservative Party
+52,Michael Colvin,London,(-0.1275 51.507222222),1997,2000,Conservative Party
+53,Michael Jack,Folkestone,(1.179444444 51.079166666),2001,2005,Conservative Party
+53,Matthew Green,Shropshire,(-2.716666666 52.616666666),2001,2005,Liberal Democrats
+52,Roy Beggs,Ballyclare,(-5.999 54.751),1997,2001,Ulster Unionist Party
+52,Christopher Fraser,Bushey,(-0.3604 51.6429),1997,2001,Conservative Party
+52,"Peter Temple-Morris, Baron Temple-Morris",Cardiff,(-3.179166666 51.481666666),1998,2001,Conservative Party
+52,"Richard Spring, Baron Risby",Cape Town,(18.423888888 -33.925277777),1997,2001,Conservative Party
+52,David Crausby,Bury,(-2.298552777 53.59315),1997,2001,Labour Party
+53,Jon Cruddas,Helston,(-5.27 50.1),2001,2005,Labour Party
+52,John Cryer,Darwen,(-2.461 53.698),1997,2001,Labour Party
+52,Jim Cunningham,Coatbridge,(-4.026666666 55.8625),1997,2001,Labour Party
+53,Tony Cunningham,Workington,(-3.5549 54.6365),2001,2005,Labour Party
+52,Alistair Darling,London,(-0.1275 51.507222222),1997,2001,Labour Party
+53,Wayne David,Bridgend,(-3.5784 51.5072),2001,2005,Labour Party
+52,Ian Davidson,Jedburgh,(-2.546 55.477),1997,2001,Labour Party
+52,Geraint Davies,Chester,(-2.883333333 53.2),1997,2001,Labour Party
+52,John Denham,Seaton,(-3.078 50.705),1997,2001,Labour Party
+52,Jim Dobbin,Kincardine,(-3.719 56.069),1997,2001,Labour Party
+52,Frank Dobson,York,(-1.083333333 53.95),1997,2001,Labour Party
+52,Brian Donohoe,Kilmarnock,(-4.494444444 55.611666666),1997,2001,Labour Party
+52,Frank Doran,Edinburgh,(-3.189166666 55.953333333),1997,2001,Labour Party
+52,Jim Dowd,Bad Eilsen,(9.099444444 52.243055555),1997,2001,Labour Party
+52,Angela Eagle,Bridlington,(-0.2004 54.088),1997,2001,Labour Party
+52,Maria Eagle,Bridlington,(-0.2004 54.088),1997,2001,Labour Party
+52,Clive Efford,Metropolitan Borough of Southwark,(-0.097 51.4908),1997,2001,Labour Party
+52,Louise Ellman,Manchester,(-2.233333333 53.466666666),1997,2001,Labour Party
+53,Paul Farrelly,Newcastle-under-Lyme,(-2.2278 53.0109),2001,2005,Labour Party
+52,Jim Fitzpatrick,Glasgow,(-4.25 55.861111111),1997,2001,Labour Party
+52,Peter Mandelson,Hampstead Garden Suburb,(-0.185 51.583),1997,2001,Labour Party
+52,Robin Cook,Bellshill,(-4.028333333 55.820555555),1997,2001,Labour Party
+53,Tom Harris,Ayrshire,(-4.635836 55.461053),2001,2005,Scottish Labour Party
+52,Jack Straw,Buckhurst Hill,(0.036 51.632),1997,2001,Labour Party
+52,Margaret Moran,Bethnal Green,(-0.066 51.5275),1997,2001,Labour Party
+52,Mark Fisher,Woking,(-0.561111111 51.316111111),1997,2001,Labour Party
+52,Mark Todd,Dorchester,(-2.439722222 50.710833333),1997,2001,Labour Party
+52,Martin Salter,Hampton,(-0.3667 51.422),1997,2001,Labour Party
+52,Martyn Jones,Wrexham,(-2.993611111 53.046666666),1997,2001,Labour Party
+52,Melanie Johnson,Ipswich,(1.155555555 52.059444444),1997,2001,Labour Party
+52,Michael Jabez Foster,Hastings,(0.57 50.85),1997,2001,Labour Party
+52,Michael John Foster,Birmingham,(-1.9025 52.48),1997,2001,Labour Party
+52,Mike Hall,Ashton-under-Lyne,(-2.1032 53.4941),1997,2001,Labour Party
+52,Mike O'Brien,Worcester,(-2.220555555 52.191111111),1997,2001,Labour Party
+52,Christine Russell,Holbeach,(0.0154 52.8037),1997,2001,Labour Party
+53,Chris Mole,Bromley,(0.018305555 51.406444444),2001,2005,Labour Party
+52,Chris Mullin,Chelmsford,(0.4798 51.7361),1997,2001,Labour Party
+52,Christine Butler,Nelson,(-2.218 53.8346),1997,2001,Labour Party
+52,Colin Pickthall,Dalton-in-Furness,(-3.1814 54.1544),1997,2001,Labour Party
+52,Dan Norris,London,(-0.1275 51.507222222),1997,2001,Labour Party
+52,Dari Taylor,Rhondda,(-3.417522222 51.615938888),1997,2001,Labour Party
+52,David Jamieson,Solihull,(-1.772 52.413),1997,2001,Labour Party
+52,David Kidney,Meir,(-2.1051 52.9779),1997,2001,Labour Party
+52,"Martin O'Neill, Baron O'Neill of Clackmannan",Edinburgh,(-3.189166666 55.953333333),1997,2001,Labour Party
+52,John Home Robertson,Edinburgh,(-3.189166666 55.953333333),1997,2001,Labour Party
+52,"Llin Golding, Baroness Golding",Wales,(-3.633333333 52.35),1997,2001,Labour Party
+52,Malcolm Chisholm,Edinburgh,(-3.189166666 55.953333333),1997,2001,Labour Party
+52,"Peter Snape, Baron Snape",Stockport,(-2.149444444 53.408333333),1997,2001,Labour Party
+52,Linda Gilroy,Moffat,(-3.442 55.332),1997,2001,Labour Party
+52,Lynne Jones,Birmingham,(-1.9025 52.48),1997,2001,Labour Party
+53,Malcolm Savidge,Surrey,(-0.45 51.25),2001,2005,Labour Party
+52,David Lepper,Richmond,(-0.301 51.456),1997,2001,Labour Party
+52,"Robert Sheldon, Baron Sheldon",Manchester,(-2.233333333 53.466666666),1997,2001,Labour Party
+52,"Robin Corbett, Baron Corbett of Castle Vale",Fremantle,(115.7475 -32.054166666),1997,2001,Labour Party
+52,Sam Galbraith,Clitheroe,(-2.3916 53.8711),1997,2001,Labour Party
+53,Pat Doherty,Glasgow,(-4.25 55.861111111),2001,2005,Sinn Féin
+52,Ian Paisley,Armagh,(-6.654444 54.349444),1997,2001,Democratic Unionist Party
+53,Nigel Dodds,Derry,(-7.341666666 54.991666666),2001,2005,Democratic Unionist Party
+52,Jeffrey Donaldson,Kilkeel,(-5.992 54.059),1997,2001,Democratic Unionist Party
+52,Andrew Stunell,Sutton,(-0.1963 51.3656),1997,2001,Liberal Democrats
+52,"Ray Michie, Baroness Michie of Gallanach",Balmaha,(-4.53733 56.0833),1997,2001,Liberal Democrats
+52,"Paul Tyler, Baron Tyler",South Devon,,1997,2001,Liberal Democrats
+52,Christopher Gill,Wolverhampton,(-2.125277777 52.584166666),1997,2001,UK Independence Party
+52,Andrew Hunter,St Albans,(-0.336 51.755),1997,2001,Conservative Party
+52,Andrew MacKay,Birmingham,(-1.9025 52.48),1997,2001,Conservative Party
+52,Clifford Forsythe,Glengormley,(-5.963 54.678),1997,2000,Ulster Unionist Party
+53,George Osborne,Paddington,(-0.173 51.5172),2001,2005,Conservative Party
+52,Virginia Bottomley,Dunoon,(-4.923 55.947),1997,2001,Conservative Party
+52,Michael Howard,Gorseinon,(-4.03 51.66),1997,2001,Conservative Party
+53,"Hugo Swire, Baron Swire",London,(-0.1275 51.507222222),2001,2005,Conservative Party
+52,Desmond Swayne,Bern,(7.44743 46.94798),1997,2001,Conservative Party
+52,Gary Streeter,Gosport,(-1.124236111 50.795088888),1997,2001,Conservative Party
+52,Geoffrey Johnson Smith,Glasgow,(-4.25 55.861111111),1997,2001,Conservative Party
+52,Michael Heseltine,Swansea,(-3.95 51.616666666),1997,2001,Conservative Party
+52,Liam Fox,East Kilbride,(-4.18333 55.76667),1997,2001,Conservative Party
+52,William Ross,Derry,(-7.341666666 54.991666666),1997,2001,Traditional Unionist Voice
+52,Ray Whitney,Northampton,(-0.9 52.233333333),1997,2001,Conservative Party
+52,Richard Body,Eton,(-0.6092 51.4881),1997,2001,Conservative Party
+52,Richard Page,Tredegar,(-3.240688888 51.777611111),1997,2001,Conservative Party
+53,Alan Hurst,Southend-on-Sea,(0.71377 51.53789),2001,2005,Labour Party
+52,Alan Keen,Lewisham,(-0.005369444 51.461455555),1997,2001,Labour Party
+52,Alan Simpson,Bootle,(-2.994166666 53.45),1997,2001,Labour Party
+52,Alan Wynne Williams,Carmarthen,(-4.316388888 51.856944444),1997,2001,Labour Party
+52,Alice Mahon,Buttershaw,(-1.7964 53.7603),1997,2001,Labour Party
+52,Allan Rogers,Gelligaer,(-3.25 51.6667),1997,2001,Labour Party
+52,Ken Maginnis,Dungannon,(-6.77 54.5),1997,2001,Ulster Unionist Party
+52,Martin Smyth,Belfast,(-5.93 54.596388888),1997,2001,Ulster Unionist Party
+52,Andrew Bennett,Barton upon Irwell,(-2.36 53.476),1997,2001,Labour Party
+52,Andrew MacKinlay,London,(-0.1275 51.507222222),1997,2001,Labour Party
+52,Nick Ainger,Sheffield,(-1.470277777 53.380833333),1997,2001,Labour Party
+52,Gerry Sutcliffe,Salford,(-2.293055555 53.482777777),1997,2001,Labour Party
+52,Gisela Stuart,Velden,(12.25 48.366666666),1997,2001,Labour Party
+52,Graham Stringer,Manchester,(-2.233333333 53.466666666),1997,2001,Labour Party
+52,Alan Johnson,Paddington,(-0.173 51.5172),1997,2001,Labour Party
+52,Geoff Hoon,Derby,(-1.476666666 52.921666666),1997,2001,Labour Party
+52,John Prescott,Prestatyn,(-3.405 53.331),1997,2001,Labour Party
+52,Tony Benn,Marylebone,(-0.147 51.5177),1997,2001,Labour Party
+52,George Galloway,Dundee,(-2.97 56.460555555),1997,2001,Labour Party
+52,"John Hutton, Baron Hutton of Furness",London,(-0.1275 51.507222222),1997,2001,Labour Party
+52,Michael Martin,Glasgow,(-4.25 55.861111111),2000,2001,Labour Party
+52,"Des Browne, Baron Browne of Ladyton",Kilwinning,(-4.7 55.65),1997,2001,Labour Party
+52,Hilary Armstrong,Sunderland,(-1.380277777 54.9),1997,2001,Labour Party
+52,Paul Boateng,London Borough of Hackney,(-0.0575 51.544722222),1997,2001,Labour Party
+52,Phyllis Starkey,Ipswich,(1.155555555 52.059444444),1997,2001,Labour Party
+52,Piara Khabra,Punjab,(75.466666666 30.766666666),1997,2001,Labour Party
+52,Rachel Squire,Carshalton,(-0.1676 51.3652),1997,2001,Labour Party
+52,Ray Powell,Treorchy,(-3.5055 51.6594),1997,2001,Labour Party
+53,Rob Marris,Wolverhampton,(-2.125277777 52.584166666),2001,2005,Labour Party
+53,Norman Lamb,Watford,(-0.395833333 51.655277777),2001,2005,Liberal Democrats
+52,Evan Harris,Sheffield,(-1.470277777 53.380833333),1997,2001,Liberal Democrats
+52,Tim Loughton,Eastbourne,(0.286111111 50.766388888),1997,2001,Conservative Party
+52,Bernard Jenkin,London,(-0.1275 51.507222222),1997,2001,Conservative Party
+52,David Lidington,London,(-0.1275 51.507222222),1997,2001,Conservative Party
+53,Ian Liddell-Grainger,Edinburgh,(-3.189166666 55.953333333),2001,2005,Conservative Party
+52,Julian Lewis,Swansea,(-3.95 51.616666666),1997,2001,Conservative Party
+52,Edward Leigh,Metropolitan Borough of Kensington,(-0.1951 51.5021),1997,2001,Conservative Party
+52,Eleanor Laing,Paisley,(-4.423888888 55.845555555),1997,2001,Conservative Party
+53,Greg Knight,Blaby,(-1.205 52.573),2001,2005,Conservative Party
+52,"Nicholas Lyell, Baron Lyell of Markyate",London,(-0.1275 51.507222222),1997,2001,Conservative Party
+52,Michael Lord,Manchester,(-2.233333333 53.466666666),1997,2001,Conservative Party
+52,"Michael Spicer, Baron Spicer",Bath,(-2.358611 51.381389),1997,2001,Conservative Party
+53,Richard Bacon,Solihull,(-1.772 52.413),2001,2005,Conservative Party
+52,Tony Lloyd,Stretford,(-2.308611111 53.446666666),1997,2001,Labour Party
+52,David Drew,Gloucestershire,(-2.166666666 51.833333333),1997,2001,Labour Party
+52,Kim Howells,Merthyr Tydfil,(-3.3779499 51.747263),1997,2001,Labour Party
+52,Gillian Merron,Ilford,(0.085833333 51.5575),1997,2001,Labour Party
+52,Ivan Lewis,Prestwich,(-2.2833 53.5333),1997,2001,Labour Party
+52,Chris Leslie,Keighley,(-1.916666666 53.866666666),1997,2001,Labour Party
+53,Mark Lazarowicz,Romford,(0.1801 51.5768),2001,2005,Labour Party
+52,Gerald Kaufman,Leeds,(-1.543611111 53.7975),1997,2001,Labour Party
+52,Eric Joyce,Perth,(-3.433333333 56.395833333),2000,2001,Labour Party
+53,Kevan Jones,Worksop,(-1.122777777 53.309722222),2001,2005,Labour Party
+52,Paul Marsden,Frodsham,(-2.725 53.295),1997,2001,Liberal Democrats
+52,"Peter Brooke, Baron Brooke of Sutton Mandeville",Hampstead,(-0.1744 51.5541),1997,2001,Conservative Party
+52,Edward Garnier,Wuppertal,(7.183333333 51.266666666),1997,2001,Conservative Party
+52,Tim Boswell,Brentwood Urban District,(0.32 51.61),1997,2001,Conservative Party
+52,Simon Hughes,Cheshire,(-2.583333333 53.166666666),1997,2001,Liberal Democrats
+52,"Jenny Tonge, Baroness Tonge",Walsall,(-1.98 52.58),1997,2001,Liberal Democrats
+52,"Richard Allan, Baron Allan of Hallam",Sheffield,(-1.470277777 53.380833333),1997,2001,Liberal Democrats
+52,"Brian Cotter, Baron Cotter",London,(-0.1275 51.507222222),1997,2001,Liberal Democrats
+52,Mark Oaten,Watford,(-0.395833333 51.655277777),1997,2001,Liberal Democrats
+52,Helen Jones,Chester,(-2.883333333 53.2),1997,2001,Labour Party
+52,Bill Rammell,Islington,(-0.1027 51.544),1997,2001,Labour Party
+52,Beverley Hughes,Ellesmere Port,(-2.897 53.279),1997,2001,Labour Party
+52,"Bruce Grocott, Baron Grocott",Watford,(-0.395833333 51.655277777),1997,2001,Labour Party
+52,Robert McCartney,Belfast,(-5.93 54.596388888),1997,2001,UK Unionist Party
+52,Llew Smith,Newbridge,(-3.136 51.67),1997,2001,Labour Party
+52,Stephen Pound,Hammersmith,(-0.2229 51.4928),1997,2001,Labour Party
+52,Michael Wills,Metropolitan Borough of St Pancras,(-0.133333 51.5333),1997,2001,Labour Party
+52,"Keith Bradley, Baron Bradley",Birmingham,(-1.9025 52.48),1997,2001,Labour Party
+52,Don Touhig,Abersychan,(-3.067203 51.735824),1997,2001,Labour Party
+52,Tony Colman,Sheringham,(1.216666666 52.933333333),1997,2001,Labour Party
+52,Andrew Smith,Wokingham,(-0.84 51.41),1997,2001,Labour Party
+52,Austin Mitchell,Baildon,(-1.763 53.851),1997,2001,Labour Party
+52,"John McFall, Baron McFall of Alcluith",Glasgow,(-4.25 55.861111111),1997,2001,Labour Party
+52,Tony McNulty,Metropolitan Borough of Kensington,(-0.1951 51.5021),1997,2001,Labour Party
+53,Jim Knight,Bexley,(0.149 51.441),2001,2005,Labour Party
+52,"Donald Anderson, Baron Anderson of Swansea",Swansea,(-3.95 51.616666666),1997,2001,Labour Party
+52,"Jean Corston, Baroness Corston",Kingston upon Hull,(-0.3325 53.744444444),1997,2001,Labour Party
+52,Jon Owen Jones,Maerdy,(-3.48331 51.6727),1997,2001,Labour Party
+52,Judy Mallaber,Colindale,(-0.2479 51.593),1997,2001,Labour Party
+52,Julie Morgan,Cardiff,(-3.179166666 51.481666666),1997,2001,Labour Party
+52,Keith Darvill,London,(-0.1275 51.507222222),1997,2001,Labour Party
+52,Keith Hill,Leicester,(-1.133055555 52.636111111),1997,2001,Labour Party
+52,Ken Purchase,Wolverhampton,(-2.125277777 52.584166666),1997,2001,Labour Party
+52,Kevin Hughes,Doncaster,(-1.1325 53.522777777),1997,2001,Labour Party
+52,Kevin McNamara,Liverpool,(-2.991666666 53.407222222),1997,2001,Labour Party
+52,Laura Moffatt,Metropolitan Borough of Battersea,(-0.1607 51.4648),1997,2001,Labour Party
+52,Lawrence Cunliffe,Walkden,(-2.3991 53.5239),1997,2001,Labour Party
+52,Lawrie Quinn,Carlisle,(-2.936388888 54.894722222),1997,2001,Labour Party
+52,Ieuan Wyn Jones,Denbigh,(-3.415711111 53.187169444),1997,2001,Plaid Cymru
+53,Adam Price,Carmarthen,(-4.316388888 51.856944444),2001,2005,Plaid Cymru
+52,Cynog Dafis,Treboeth,(-3.94878 51.653),1997,2000,Plaid Cymru
+52,Seamus Mallon,Markethill,(-6.5214 54.2985),1997,2001,Social Democratic and Labour Party
+53,Charles Hendry,Cuckfield,(-0.1407 51.0096),2001,2005,Conservative Party
+53,Mark Hoban,Peterlee,(-1.33 54.76),2001,2005,Conservative Party
+52,Julie Kirkbride,Halifax,(-1.863 53.725),1997,2001,Conservative Party
+53,Andrew Murrison,Colchester,(0.903611 51.888611),2001,2005,Conservative Party
+53,Patrick Mercer,Stockport,(-2.149444444 53.408333333),2001,2005,Conservative Party
+52,David Heath,Westbury-sub-Mendip,(-2.7141 51.2361),1997,2001,Liberal Democrats
+53,Ann McKechin,Paisley,(-4.423888888 55.845555555),2001,2005,Scottish Labour Party
+53,Paul Goodman,London,(-0.1275 51.507222222),2001,2005,Conservative Party
+53,Peter Duncan,Saltcoats,(-4.7896 55.6352),2001,2005,Conservative Party
+52,Peter Emery,London,(-0.1275 51.507222222),1997,2001,Conservative Party
+52,"Jim Wallace, Baron Wallace of Tankerness",Annan,(-3.266 54.983),1997,2001,Liberal Democrats
+52,"Richard Livsey, Baron Livsey of Talgarth",Talgarth,(-3.232 51.993),1997,2001,Liberal Democrats
+52,John Redwood,Dover,(1.312222222 51.1275),1997,2001,Conservative Party
+52,Cheryl Gillan,Cardiff,(-3.179166666 51.481666666),1997,2001,Conservative Party
+52,Andrew Miller,Isleworth,(-0.3363 51.4666),1997,2001,Labour Party
+52,Alan Meale,Bishop Auckland,(-1.68 54.66),1997,2001,Labour Party
+52,Michael Meacher,Hemel Hempstead,(-0.448611 51.753333),1997,2001,Labour Party
+52,Anne McGuire,Glasgow,(-4.25 55.861111111),1997,2001,Labour Party
+52,John Healey,Wakefield,(-1.4975 53.6825),1997,2001,Labour Party
+52,Barbara Follett,Kingston,(-76.793055555 17.971388888),1997,2001,Labour Party
+53,Jonathan Shaw,Chatham,(0.523333333 51.381944444),2001,2005,Labour Party
+52,Mark Hendrick,Salford,(-2.293055555 53.482777777),2000,2001,Labour Party
+52,Stephen Hepburn,Jarrow,(-1.49 54.981388888),1997,2001,Labour Party
+53,David Heyes,Manchester,(-2.233333333 53.466666666),2001,2005,Labour Party
+53,Margaret Hodge,Cairo,(31.235833333 30.044444444),2001,2005,Labour Party
+52,Kate Hoey,Belfast,(-5.93 54.596388888),1997,2001,Labour Party
+52,Jimmy Hood,Lesmahagow,(-3.887 55.638),1997,2001,Labour Party
+52,Kelvin Hopkins,Leicester,(-1.133055555 52.636111111),1997,2001,Labour Party
+52,George Howarth,Prescot Urban District,(-2.803 53.428),1997,2001,Labour Party
+53,Lindsay Hoyle,Adlington,(-2.598583 53.616546),2001,2005,Labour Party
+53,Huw Irranca-Davies,Gowerton,(-4.0322 51.6496),2002,2005,Labour Party
+52,John McDonnell,Liverpool,(-2.991666666 53.407222222),1997,2001,Labour Party
+52,Siobhain McDonagh,Colliers Wood,(-0.167780555 51.419180555),1997,2001,Labour Party
+52,Douglas Hogg,Metropolitan Borough of Chelsea,(-0.1682 51.4874),1997,2001,Conservative Party
+52,Francis Maude,Abingdon-on-Thames,(-1.278333333 51.671666666),1997,2001,Conservative Party
+52,Sally Keeble,Berlin,(13.383333333 52.516666666),1997,2001,Labour Party
+52,Shona McIsaac,Dunfermline,(-3.461666666 56.071388888),1997,2001,Labour Party
+52,Charles Clarke,Hammersmith,(-0.2229 51.4928),1997,2001,Labour Party
+52,Tam Dalyell,Edinburgh,(-3.189166666 55.953333333),1997,2001,Labour Party
+52,Henry McLeish,Methil,(-3.0223 56.1844),1997,2001,Labour Party
+52,Paul Murphy,Usk,(-2.901944444 51.703611111),1997,2001,Labour Party
+52,Ron Davies,Machen,(-3.13475 51.59885),1997,2001,Labour Party
+52,"John Morris, Baron Morris of Aberavon",Capel Bangor,(-3.96667 52.4),1997,2001,Labour Party
+53,Parmjit Singh Gill,Leicester,(-1.133055555 52.636111111),2004,2005,Liberal Democrats
+52,Paul Keetch,Hereford,(-2.716111111 52.056388888),1997,2001,Liberal Democrats
+52,Peter Viggers,Gosport,(-1.124236111 50.795088888),1997,2001,Conservative Party
+53,Meg Munn,Sheffield,(-1.470277777 53.380833333),2001,2005,Labour Party
+52,Neil Gerrard,Farnworth,(-2.3999 53.5452),1997,2001,Labour Party
+52,Neil Turner,Carlisle,(-2.936388888 54.894722222),1999,2001,Labour Party
+52,Nick Palmer,City of Westminster,(-0.137222222 51.4975),1997,2001,Labour Party
+52,Nigel Griffiths,Glasgow,(-4.25 55.861111111),1997,2001,Labour Party
+52,Paddy Tipping,Halifax,(-1.863 53.725),1997,2001,Labour Party
+52,Patrick Hall,Birmingham,(-1.9025 52.48),1997,2001,Labour Party
+53,Sylvia Hermon,Galbally,(-6.88333 54.5333),2001,2005,Ulster Unionist Party
+52,Archie Norman,United Kingdom,(-2.0 54.6),1997,2001,Conservative Party
+52,John Swinney,Edinburgh,(-3.189166666 55.953333333),1997,2001,Scottish National Party
+52,Margaret Ewing,Lanark,(-3.77702 55.6749),1997,2001,Scottish National Party
+52,Roseanna Cunningham,Glasgow,(-4.25 55.861111111),1997,2001,Scottish National Party
+52,Andrew Welsh,Glasgow,(-4.25 55.861111111),1997,2001,Scottish National Party
+52,Gwyneth Dunwoody,Fulham,(-0.2138 51.4767),1997,2001,Labour Party
+52,Mohammad Sarwar,Pir Mahal,(72.26 30.46),1997,2001,Labour Party
+52,David Borrow,Huddersfield,(-1.779722222 53.645),1997,2001,Labour Party
+52,Alasdair Morgan,Aberfeldy,(-3.8655 56.6181),1997,2001,Scottish National Party
+53,Paul Daisley,Acton,(-0.262661111 51.510519444),2001,2003,Labour Party
+53,Peter Kilfoyle,Liverpool,(-2.991666666 53.407222222),2001,2005,Labour Party
+52,Peter Pike,Ware,(-0.0292 51.817),1997,2001,Labour Party
+52,Phil Hope,Battersea,(-0.167711111 51.463769444),1997,2001,Labour Party
+52,Phil Sawford,Loddington,(-0.835277777 52.613055555),1997,2001,Labour Party
+52,David Rendel,Athens,(23.728055555 37.984166666),1997,2001,Liberal Democrats
+52,Tommy McAvoy,Rutherglen,(-4.224 55.828),1997,2001,Labour Party
+52,"Tom Pendry, Baron Pendry",Broadstairs,(1.439438888 51.358880555),1997,2001,Labour Party
+52,Rudi Vis,Alkmaar,(4.74403 52.6289),1997,2001,Labour Party
+52,Des Turner,Southampton,(-1.404444444 50.906666666),1997,2001,Labour Party
+52,Doug Henderson,Edinburgh,(-3.189166666 55.953333333),1997,2001,Labour Party
+52,Doug Naysmith,Musselburgh,(-3.054166666 55.941944444),1997,2001,Labour Party
+52,David Marshall,Glasgow,(-4.25 55.861111111),1997,2001,Labour Party
+52,David Taylor,Ashby-de-la-Zouch,(-1.476 52.746),1997,2001,Labour Party
+52,John Taylor,Armagh,(-6.654444 54.349444),1997,2001,Ulster Unionist Party
+52,Denis Murphy,Ashington,(-1.568 55.181),1997,2001,Labour Party
+52,Derek Wyatt,Metropolitan Borough of Woolwich,(0.0647 51.4896),1997,2001,Labour Party
+52,William Thompson,Beragh,(-7.167 54.55),1997,2001,Ulster Unionist Party
+52,Helen Southworth,Preston,(-2.698055555 53.759444444),1997,2001,Labour Party
+52,Howard Stoate,Weymouth,(-2.454722222 50.609722222),1997,2001,Labour Party
+53,Iain Luke,Dundee,(-2.97 56.460555555),2001,2005,Labour Party
+52,Ian Gibson,Dumfries,(-3.616666666 55.066666666),1997,2001,Labour Party
+52,Ian Pearson,Dudley,(-2.1 52.516666666),1997,2001,Labour Party
+52,Peter Luff,Windsor,(-0.6 51.483333333),1997,2001,Conservative Party
+52,Eddie McGrady,Downpatrick,(-5.703 54.322),1997,2001,Social Democratic and Labour Party
+53,Ian Stewart,Blantyre,(-4.091944444 55.793611111),2001,2005,Labour Party
+53,Terry Rooney,Bradford,(-1.751 53.794),2001,2005,Labour Party
+52,Steve McCabe,Port Glasgow,(-4.69 55.94),1997,2001,Labour Party
+53,John Mann,Leeds,(-1.543611111 53.7975),2001,2005,Labour Party
+53,Khalid Mahmood,Azad Kashmir,(73.764555555 33.938083333),2001,2005,Labour Party
+53,Fiona Mactaggart,Glasgow,(-4.25 55.861111111),2001,2005,Labour Party
+53,Denis MacShane,Glasgow,(-4.25 55.861111111),2001,2005,Labour Party
+53,Ian Lucas,Gateshead,(-1.6 54.95),2001,2005,Labour Party
+52,Andy Love,Greenock,(-4.766666666 55.95),1997,2001,Labour Party
+52,William McCrea,Stewartstown,(-6.67 54.58),2000,2001,Democratic Unionist Party
+52,Anthony Steen,Metropolitan Borough of St Marylebone,(-0.1601 51.5213),1997,2001,Conservative Party
+52,Humfrey Malins,Nuneaton,(-1.4683 52.523),1997,2001,Conservative Party
+52,Ian Taylor,Coventry,(-1.516666666 52.416666666),1997,2001,Conservative Party
+52,Teddy Taylor,Glasgow,(-4.25 55.861111111),1997,2001,Conservative Party
+52,Michael Mates,Brentford,(-0.3101 51.4861),1997,2001,Conservative Party
+52,Marion Roe,London,(-0.1275 51.507222222),1997,2001,Conservative Party
+53,Eric Forth,Glasgow,(-4.25 55.861111111),2001,2005,Conservative Party
+52,Robert Key,Plymouth,(-4.142222222 50.371388888),1997,2001,Conservative Party
+53,Paul Holmes,Sheffield,(-1.470277777 53.380833333),2001,2005,Liberal Democrats
+52,Michael Trend,Greenwich,(0.0 51.48),1997,2001,Conservative Party
+52,Ashok Kumar,Uttar Pradesh,(80.91 26.85),1997,2001,Labour Party
+52,Audrey Wise,Newcastle upon Tyne,(-1.613333333 54.977777777),1997,2000,Labour Party
+52,Barbara Roche,Bethnal Green,(-0.066 51.5275),1997,2001,Labour Party
+52,Ben Chapman,Kirkby Stephen,(-2.3479 54.4716),1997,2001,Labour Party
+52,Edward O'Hara,Bootle,(-2.994166666 53.45),1997,2001,Labour Party
+52,Elliot Morley,Liverpool,(-2.991666666 53.407222222),1997,2001,Labour Party
+52,Eric Illsley,Kendray,(-1.459 53.545),1997,2001,Labour Party
+52,Eric Martlew,Ince-in-Makerfield,(-2.599 53.5402),1997,2001,Labour Party
+52,Ernie Ross,Dundee,(-2.97 56.460555555),1997,2001,Labour Party
+52,Fiona Jones,Liverpool,(-2.991666666 53.407222222),1999,2001,Labour Party
+52,Frank Cook,Hartlepool,(-1.216666666 54.683333333),1997,2001,Labour Party
+52,Fraser Kemp,Washington,(-1.52 54.9),1997,2001,Labour Party
+52,Andy Reed,Kettering,(-0.733333333 52.4),1997,2001,Labour Party
+52,Ann Cryer,Lytham St Annes,(-2.997 53.7426),1997,2001,Labour Party
+52,Ann Keen,Hawarden,(-3.02 53.182),1997,2001,Labour Party
+53,Anne Moffat,Dunfermline,(-3.461666666 56.071388888),2001,2005,Labour Party
+52,John Gunnell,Birmingham,(-1.9025 52.48),1997,2001,Labour Party
+53,James Plaskitt,Grimsby,(-0.08 53.5675),2001,2005,Labour Party
+52,Maria Fyfe,Gorbals,(-4.25211 55.8486),1997,2001,Labour Party
+52,Jim Marshall,Sheffield,(-1.470277777 53.380833333),1997,2001,Labour Party
+52,Teresa Gorman,Putney,(-0.2211 51.4649),1997,2001,Conservative Party
+52,John Major,London,(-0.1275 51.507222222),1997,2001,Conservative Party
+52,Peter Lilley,Hayes,(0.0192 51.378),1997,2001,Conservative Party
+53,Siôn Simon,Doncaster,(-1.1325 53.522777777),2001,2005,Labour Party
+52,Stephen Hesford,Lowton,(-2.5698 53.4712),1997,2001,Labour Party
+52,Stephen Ladyman,Ormskirk,(-2.8869 53.5665),1997,2001,Labour Party
+52,Syd Rapson,Isle of Wight,(-1.266666666 50.666666666),1997,2001,Labour Party
+52,Sylvia Heal,Shotton,(-3.042 53.209),1997,2001,Labour Party
+53,David Cairns,Greenock,(-4.766666666 55.95),2001,2005,Labour Party
+52,Tony Blair,Edinburgh,(-3.189166666 55.953333333),1997,2001,Labour Party
+52,Gordon Brown,Giffnock,(-4.290555555 55.798333333),1997,2001,Labour Party
+52,Alun Michael,Bryngwran,(-4.453829709 53.262534044),1997,2001,Labour Party
+53,Paul Stinchcombe,Haslemere,(-0.7117 51.0899),2001,2005,Labour Party
+53,Sue Doughty,York,(-1.083333333 53.95),2001,2005,Liberal Democrats
+53,David Cameron,Marylebone,(-0.147 51.5177),2001,2005,Conservative Party
+52,William Hague,Rotherham,(-1.357222222 53.43),1997,2001,Conservative Party
+52,Tom Levitt,Crewe,(-2.44 53.099),1997,2001,Labour Party
+52,Tommy Graham,Renfrewshire,(-4.389464 55.877277),1998,2001,Labour Party
+53,Tony McWalter,Worksop,(-1.122777777 53.309722222),2001,2005,Labour Party
+52,Alex Salmond,Linlithgow,(-3.610555555 55.975277777),1997,2001,Scottish National Party
+52,Martin McGuinness,Derry,(-7.341666666 54.991666666),1997,2001,Sinn Féin
+52,Martin Bell,Redisham,(1.52 52.4),1997,2001,
